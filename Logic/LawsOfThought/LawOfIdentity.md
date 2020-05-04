@@ -14,7 +14,7 @@ Regarding this law, Aristotle wrote:
 > for not to have one meaning is to have no meaning, and if words have no meaning our reasoning with one another, and indeed with ourselves, has been annihilated;
 > for it is impossible to think of anything if we do not think of one thing; but if this is possible, one name might be assigned to this thing.)
 
-\- Aristotle, Metaphysics, Book IV, Part 4 translated by W.D. [1]
+\- Aristotle, Metaphysics, Book IV, Part 4 (translated by W.D. Ross) [1]
 
 In order to talk and reason about something, we first need to affirm its identity.
 Without it, we couldn't talk about anything, since we can only grasp things in our reasoning by referring to them via a previous identity.
